@@ -39,3 +39,4 @@ console.log(adicionarItem)
 
 let unshiftFaz = ('Adiciona 1 ou mais elementos no inicio do array')
 console.log(unshiftFaz)
+
